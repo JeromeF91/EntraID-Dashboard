@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+
+# Local Entra exports / samples (often contain PII)
+*-Sample.json
+*_sample.json
+InteractiveSignIns*.json
